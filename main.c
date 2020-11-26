@@ -14,7 +14,7 @@ break;
 }
 if(var == 'n')
 {
-printf("Как хочешь...\n");
+printf("Как хочешь...пока...\n");
 break;
 }
 else
